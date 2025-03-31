@@ -1,1 +1,2 @@
 Dodanie funkcjonalnosci C.
+Zmiany z master.
