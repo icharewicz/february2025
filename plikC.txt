@@ -1,1 +1,2 @@
 Dodanie funkcjonalnosci C.
+Zmiana z testing.
