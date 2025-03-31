@@ -1,2 +1,2 @@
 Dodanie funkcjonalnosci C.
-Zmiany z master.
+Zmiany z master bez testing.
